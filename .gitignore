@@ -1,0 +1,6 @@
+.env
+sqlite_data/
+*.sqlite
+grafana_data/
+__pycache__/
+.venv/
